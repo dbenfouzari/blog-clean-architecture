@@ -1,0 +1,18 @@
+root = true
+
+[*]
+# charset = utf-8
+charset = utf-8
+# end_of_line = lf
+end_of_line = lf
+# indent_size = 4
+indent_size = 2
+# indent_style = space
+indent_style = space
+# insert_final_newline = false
+insert_final_newline = true
+# max_line_length = 120
+max_line_length = 90
+# tab_width = 4
+tab_width = 4
+trim_trailing_whitespace = true
